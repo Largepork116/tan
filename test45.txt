@@ -1,0 +1,13 @@
+1.新建一个名为HelloWorld.txt的文本文件。
+
+2.将HelloWorld.txt改为.java。
+
+3.将HelloWorld.java用文本文件的方式打开，并输入代码。
+
+4.打开命令行，进入刚刚编辑的Java源文件目录，使用Java
+
+     命令对HelloWorld.java进行编译。
+
+5.使用Java命令执行HelloWorld.class文件，输出HelloWorld。
+
+6.实验总结:通过这次的实验，我发现Java语言和C语言有很大的
